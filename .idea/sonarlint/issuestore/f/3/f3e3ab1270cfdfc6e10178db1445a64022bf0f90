@@ -1,10 +1,0 @@
-
-I
-java:S1874".Remove this use of "divide"; it is deprecated.(ºû¸Ìþÿÿÿÿ
-P
-java:S1874"5Remove this use of "ROUND_HALF_UP"; it is deprecated.(ºû¸Ìþÿÿÿÿ
-F
-java:S1874"0Remove this use of "setScale"; it is deprecated.(”«ö©
-K
-java:S1874"5Remove this use of "ROUND_HALF_UP"; it is deprecated.(”«ö©
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Åš«æüÿÿÿÿ
