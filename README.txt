@@ -1,0 +1,1 @@
+In this project, a full-fledged parser is implemented that interacts with the MySQL database. 

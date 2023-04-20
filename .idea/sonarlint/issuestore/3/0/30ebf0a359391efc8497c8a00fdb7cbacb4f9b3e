@@ -1,0 +1,8 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Íî‹¢ûÿÿÿÿ
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(„Ü‡
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‰û–
+c	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êµ¯
